@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+docker run -it --privileged madoos/node-dind:latest bash
+
